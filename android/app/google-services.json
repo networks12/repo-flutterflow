@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "426258990001",
+    "project_id": "tiendaoline-349c2",
+    "storage_bucket": "tiendaoline-349c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426258990001:android:7b942e02c8e635b2143390",
+        "android_client_info": {
+          "package_name": "com.mycompany.tienda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426258990001-9td4ap3guhgnq8s0oh86qghnlq2kcire.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZJS-_4SHuwwPdaC4L__R7lc9je22GdxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426258990001-9td4ap3guhgnq8s0oh86qghnlq2kcire.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426258990001-b0ccg58e3jmc4hp9pn66p93s6ktgk705.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.tienda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
